@@ -47,3 +47,10 @@
 
 ---
 
+<h4>📈 My Github stats</h4><br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iXZed026&layout=compact&theme=radical)
+
+[![Danyal's GitHubStats](https://github-readme-stats.vercel.app/api?username=iXZed026&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
