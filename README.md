@@ -41,6 +41,8 @@
             alt="TypeScript" width="50px" height="50px">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg"
             alt="Bootstrap" width="50px" height="50px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg"
+            alt="Bootstrap" width="50px" height="50px">
 </div>
 
 ---
