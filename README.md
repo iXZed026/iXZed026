@@ -43,8 +43,6 @@
             alt="Bootstrap" width="50px" height="50px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-plain.svg"
             alt="Bootstrap" width="50px" height="50px">
-      <img src="c"
-            alt="Bootstrap" width="50px" height="50px">
 </div>
 
 ---
