@@ -45,7 +45,7 @@
             alt="Bootstrap" width="50px" height="50px">
       <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
             alt="Redux" width="50px" height="50px">
-      <img src="[https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png](https://img.icons8.com/fluent-systems-filled/512/nextjs.png)"
+      <img src="https://img.icons8.com/fluent-systems-filled/512/nextjs.png"
             alt="NextJs" width="50px" height="50px">
 </div>
 
